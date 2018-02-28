@@ -1,4 +1,4 @@
-Linux Tips
+./Linux Tips
 ====
 This is a collection of the commands and items that might prove useful.
 
